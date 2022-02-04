@@ -6,4 +6,4 @@ Website Preloader Created inspired by [DarioMocciaTwitch](https://www.twitch.tv/
 
 __[Preview](https://pizzapastamandolino.github.io/DarioMocciaTwitch-Preloader/)__
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/gino_quellovero?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/ItzAlem&screen_name=gino_quellovero)
+[![Twitter Follow](https://img.shields.io/twitter/follow/formaDeCacio?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/ItzAlem&screen_name=formaDeCacio)
